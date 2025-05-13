@@ -16,7 +16,7 @@
 - Bootstrap 版本：`5.x.x`  # UI 框架
 - Express.js 版本：`v4.19.2` # Node.js 的後端框架
 - Firebase 版本：`v10.11.0`  #使用 Authentication、Firestore 等服務
-- PostgreSQL 版本：`v16.2  #關聯式資料庫
+- PostgreSQL 版本：`v16.2`  #關聯式資料庫
 
 ## 安裝步驟
 1. 克隆這個專案：
